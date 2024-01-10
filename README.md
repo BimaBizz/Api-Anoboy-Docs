@@ -1,18 +1,24 @@
+# ⚠️ Disclaimer
+
+ - pemaikaian api bersifat gratis tetapi harus menyertakan credits dari ke url ->
+   https://www.bimabizz.my.id sebagai author pembuat API
+ - pemblokiran website domain dan IP akan dilakukan jika rule diatas
+   tidak dilakukan
 
 ![Website Template Project](https://github.com/BimaBizz/Api-Anoboy-Docs/assets/98264074/21e0e364-8065-4e8f-a10e-dac7d3380143)
 
-# Dokumentasi Api-Anoboy Streaming
+# 📘 Dokumentasi Api-Anoboy Streaming
 
 ## Pengaturan Awal
 
 Proyek ini menggunakan ExpressJS, Morgan, dotenv, Axios, dan Cheerio untuk membuat platform streaming anime. Dokumentasi ini memberikan gambaran singkat tentang struktur proyek dan fitur-fitur yang disediakan.
 
-### Routing Anime
+### 🛣️ Routing Anime
 
--   Gunakan rute komiku
 -   Gunakan rute anime
+-   Gunakan rute komiku
 
-### Anime Terbaru & Search
+### 🔍 Anime Terbaru & Search
 
 Endpoint: `https://animev1.bimabizz.my.id//api/anime/` <br/>
 Endpoint Search Anime `https://animev1.bimabizz.my.id//api/anime/?s=(nama_anime)`
@@ -38,7 +44,7 @@ Response :
     -   **detail_url**: "[http://animev1.bimabizz.my.id/api/anime/2024~01~isekai-de-mofumofu-nadenade-suru-tame-ni-ganbattemasu-episode-2](http://animev1.bimabizz.my.id/api/anime/2024~01~isekai-de-mofumofu-nadenade-suru-tame-ni-ganbattemasu-episode-2~)" 
 
 
-### Jadwal Anime Terbaru
+### ⌚ Jadwal Anime Terbaru
 
 Endpoint: `https://animev1.bimabizz.my.id//api/anime/jadwal/terbaru/`
 
@@ -71,7 +77,7 @@ Response:
     -   **time**: "Senin, 14:04" |
 
 
-### Daftar Anime
+### 📃 Daftar Anime
 
 Endpoint: `https://animev1.bimabizz.my.id//api/anime-list`
 
@@ -93,7 +99,7 @@ Contoh Nilai:
     -   **title**: "“Oshi no Ko”"
     -   **url**: "[https://animev1.bimabizz.my.id/api/anime/jadwal/allepisode/2023~04~oshi-no-ko](https://animev1.bimabizz.my.id/api/anime/jadwal/allepisode/2023~04~oshi-no-ko)~"
 
-### Komik Terbaru & Search
+### 📚 Komik Terbaru & Search
 
 Endpoint: `https://animev1.bimabizz.my.id//api/komiku/` <br/>
 Endpoint Search Anime `https://animev1.bimabizz.my.id//api/komiku/?s=(nama_komik)`
@@ -121,7 +127,7 @@ Contoh Nilai data:
 -   **detail_url**: "[http://animev1.bimabizz.my.id/api/komiku/jishou-f-rank-no-oniisama-ga-game-de-hyouka-sareru-gakuen-no-chouten-ni-kunrin-suru-sou-desu-yo](http://animev1.bimabizz.my.id/api/komiku/jishou-f-rank-no-oniisama-ga-game-de-hyouka-sareru-gakuen-no-chouten-ni-kunrin-suru-sou-desu-yo)"
 
 
-### Dukungan Support Project
+### 🥰 Dukungan Support Project
 
 jika kalian terbantu dengan website ini dan ingin melakukan donasi<br/>
 (●'◡'●)<br/>
