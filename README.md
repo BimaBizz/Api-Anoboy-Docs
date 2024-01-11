@@ -2,8 +2,6 @@
 
  - pemaikaian api bersifat gratis tetapi harus menyertakan credits dari ke url ->
    https://www.bimabizz.my.id sebagai author pembuat API
- - pemblokiran website domain dan IP akan dilakukan jika rule diatas
-   tidak dilakukan
 
 ![Website Template Project](https://github.com/BimaBizz/Api-Anoboy-Docs/assets/98264074/21e0e364-8065-4e8f-a10e-dac7d3380143)
 
